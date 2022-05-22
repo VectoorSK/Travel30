@@ -81,7 +81,7 @@
 }, {
     "name": "Israel",
     "id": "IL",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Belgium",
     "id": "BE",
@@ -97,7 +97,7 @@
 }, {
     "name": "Japan",
     "id": "JP",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Sri Lanka",
     "id": "LK",
@@ -133,7 +133,7 @@
 }, {
     "name": "Pakistan",
     "id": "PK",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Liechtenstein",
     "id": "LI",
@@ -253,7 +253,7 @@
 }, {
     "name": "Syria",
     "id": "SY",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Portugal",
     "id": "PT",
@@ -269,7 +269,7 @@
 }, {
     "name": "Azerbaijan",
     "id": "AZ",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Hungary",
     "id": "HU",
@@ -289,7 +289,7 @@
 }, {
     "name": "Armenia",
     "id": "AM",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Slovenia",
     "id": "SI",
@@ -301,11 +301,11 @@
 }, {
     "name": "Turkey",
     "id": "TR",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "United Arab Emirates",
     "id": "AE",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Albania",
     "id": "AL",
@@ -337,7 +337,7 @@
 }, {
     "name": "Egypt",
     "id": "EG",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Sierra Leone",
     "id": "SL",
@@ -357,15 +357,15 @@
 }, {
     "name": "Ethiopia",
     "id": "ET",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Iraq",
     "id": "IQ",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Kenya",
     "id": "KE",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Myanmar",
     "id": "MM",
@@ -393,7 +393,7 @@
 }, {
     "name": "Jordan",
     "id": "JO",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Swaziland",
     "id": "SZ",
@@ -405,7 +405,7 @@
 }, {
     "name": "Uzbekistan",
     "id": "UZ",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Lesotho",
     "id": "LS",
@@ -429,7 +429,7 @@
 }, {
     "name": "Georgia",
     "id": "GE",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Burkina Faso",
     "id": "BF",
@@ -453,19 +453,19 @@
 }, {
     "name": "Tajikistan",
     "id": "TJ",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Yemen",
     "id": "YE",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Eritrea",
     "id": "ER",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Tanzania",
     "id": "TZ",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Nicaragua",
     "id": "NI",
@@ -473,7 +473,7 @@
 }, {
     "name": "Iran",
     "id": "IR",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Fiji",
     "id": "FJ",
@@ -525,7 +525,7 @@
 }, {
     "name": "Djibouti",
     "id": "DJ",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Liberia",
     "id": "LR",
@@ -533,7 +533,7 @@
 }, {
     "name": "Madagascar",
     "id": "MG",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Faroe Islands",
     "id": "FO",
@@ -605,7 +605,7 @@
 }, {
     "name": "South Sudan",
     "id": "SS",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Zambia",
     "id": "ZM",
@@ -613,7 +613,7 @@
 }, {
     "name": "Sudan",
     "id": "SD",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "New Zealand",
     "id": "NZ",
@@ -637,11 +637,11 @@
 }, {
     "name": "Papua New Guinea",
     "id": "PG",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Somalia",
     "id": "SO",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Niger",
     "id": "NE",
@@ -681,7 +681,7 @@
 }, {
     "name": "Russia",
     "id": "RU",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Central African Republic",
     "id": "CF",
@@ -693,7 +693,7 @@
 }, {
     "name": "Kazakhstan",
     "id": "KZ",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Guyana",
     "id": "GY",
@@ -725,7 +725,7 @@
 }, {
     "name": "Australia",
     "id": "AU",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Namibia",
     "id": "NA",
@@ -737,7 +737,7 @@
 }, {
     "name": "Mongolia",
     "id": "MN",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Pitcairn Islands",
     "id": "PN",
@@ -773,7 +773,7 @@
 }, {
     "name": "Palestine",
     "id": "PS",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Taiwan",
     "id": "TW",
@@ -785,7 +785,7 @@
 }, {
     "name": "South Korea",
     "id": "KR",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Nauru",
     "id": "NR",
@@ -837,7 +837,7 @@
 }, {
     "name": "North Korea",
     "id": "KP",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Saint Kitts and Nevis",
     "id": "KN",
