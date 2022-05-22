@@ -29,7 +29,7 @@
 }, {
     "name": "Bangladesh",
     "id": "BD",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Maldives",
     "id": "MV",
@@ -77,7 +77,7 @@
 }, {
     "name": "India",
     "id": "IN",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Israel",
     "id": "IL",
@@ -93,7 +93,7 @@
 }, {
     "name": "Philippines",
     "id": "PH",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Japan",
     "id": "JP",
@@ -185,7 +185,7 @@
 }, {
     "name": "Nepal",
     "id": "NP",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Qatar",
     "id": "QA",
@@ -233,7 +233,7 @@
 }, {
     "name": "Indonesia",
     "id": "ID",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Poland",
     "id": "PL",
@@ -593,7 +593,7 @@
 }, {
     "name": "Bhutan",
     "id": "BT",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Uruguay",
     "id": "UY",
@@ -777,7 +777,7 @@
 }, {
     "name": "Taiwan",
     "id": "TW",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Mayotte",
     "id": "YT",
@@ -865,7 +865,7 @@
 }, {
     "name": "China",
     "id": "CN",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Tokelau",
     "id": "TK",
