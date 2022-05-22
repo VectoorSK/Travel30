@@ -57,7 +57,7 @@
 }, {
     "name": "Rwanda",
     "id": "RW",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Comoros",
     "id": "KM",
@@ -89,7 +89,7 @@
 }, {
     "name": "Burundi",
     "id": "BI",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Philippines",
     "id": "PH",
@@ -201,7 +201,7 @@
 }, {
     "name": "Uganda",
     "id": "UG",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Cyprus",
     "id": "CY",
@@ -473,7 +473,7 @@
 }, {
     "name": "Iran",
     "id": "IR",
-    "distance": "41",
+    "distance": "31",
 }, {
     "name": "Fiji",
     "id": "FJ",
@@ -521,7 +521,7 @@
 }, {
     "name": "Afghanistan",
     "id": "AF",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Djibouti",
     "id": "DJ",
@@ -561,7 +561,7 @@
 }, {
     "name": "Kyrgyzstan",
     "id": "KG",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Estonia",
     "id": "EE",
@@ -657,11 +657,11 @@
 }, {
     "name": "Saudi Arabia",
     "id": "SA",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Oman",
     "id": "OM",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Mali",
     "id": "ML",
@@ -669,7 +669,7 @@
 }, {
     "name": "Turkmenistan",
     "id": "TM",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Bolivia",
     "id": "BO",
