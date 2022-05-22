@@ -117,7 +117,7 @@
 }, {
     "name": "Vietnam",
     "id": "VN",
-    "distance": "51",
+    "distance": "11",
 }, {
     "name": "United Kingdom",
     "id": "GB",
@@ -229,7 +229,7 @@
 }, {
     "name": "Thailand",
     "id": "TH",
-    "distance": "51",
+    "distance": "1",
 }, {
     "name": "Indonesia",
     "id": "ID",
@@ -333,7 +333,7 @@
 }, {
     "name": "Malaysia",
     "id": "MY",
-    "distance": "51",
+    "distance": "11",
 }, {
     "name": "Egypt",
     "id": "EG",
@@ -349,7 +349,7 @@
 }, {
     "name": "Cambodia",
     "id": "KH",
-    "distance": "51",
+    "distance": "11",
 }, {
     "name": "Greece",
     "id": "GR",
@@ -369,7 +369,7 @@
 }, {
     "name": "Myanmar",
     "id": "MM",
-    "distance": "51",
+    "distance": "11",
 }, {
     "name": "Croatia",
     "id": "HR",
@@ -413,7 +413,7 @@
 }, {
     "name": "Brunei",
     "id": "BN",
-    "distance": "51",
+    "distance": "11",
 }, {
     "name": "Tunisia",
     "id": "TN",
@@ -569,7 +569,7 @@
 }, {
     "name": "Laos",
     "id": "LA",
-    "distance": "51",
+    "distance": "11",
 }, {
     "name": "Bahamas",
     "id": "BS",
