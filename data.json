@@ -1,1447 +1,965 @@
 [{
     "name": "Monaco",
     "id": "MC",
-    "area": "2",
     "distance": "50",
-    "population": "37800"
 }, {
     "name": "Singapore",
     "id": "SG",
-    "area": "719",
     "distance": "50",
-    "population": "5535000"
 }, {
     "name": "Hong Kong",
     "id": "HK",
-    "area": "1104",
     "distance": "50",
-    "population": "7234800"
 }, {
     "name": "Vatican City",
     "id": "VA",
-    "area": "0.44",
     "distance": "50",
-    "population": "800"
 }, {
     "name": "Bahrain",
     "id": "BH",
-    "area": "757",
     "distance": "50",
-    "population": "1234571"
 }, {
     "name": "Malta",
     "id": "MT",
-    "area": "315",
     "distance": "50",
-    "population": "416055"
 }, {
     "name": "Bermuda",
     "id": "BM",
-    "area": "53",
     "distance": "50",
-    "population": "64237"
 }, {
     "name": "Bangladesh",
     "id": "BD",
-    "area": "143998",
     "distance": "50",
-    "population": "159747262"
 }, {
     "name": "Maldives",
     "id": "MV",
-    "area": "298",
     "distance": "50",
-    "population": "317280"
 }, {
     "name": "Barbados",
     "id": "BB",
-    "area": "430",
     "distance": "50",
-    "population": "274200"
 }, {
     "name": "Mauritius",
     "id": "MU",
-    "area": "2040",
     "distance": "50",
-    "population": "1259838"
 }, {
     "name": "San Marino",
     "id": "SM",
-    "area": "61",
     "distance": "50",
-    "population": "32382"
 }, {
     "name": "Aruba",
     "id": "AW",
-    "area": "193",
     "distance": "50",
-    "population": "101484"
 }, {
     "name": "Lebanon",
     "id": "LB",
-    "area": "10452",
     "distance": "50",
-    "population": "4966000"
 }, {
     "name": "Rwanda",
     "id": "RW",
-    "area": "25314",
     "distance": "50",
-    "population": "11262564"
 }, {
     "name": "Comoros",
     "id": "KM",
-    "area": "1861",
     "distance": "50",
-    "population": "784745"
 }, {
     "name": "Netherlands",
     "id": "NL",
-    "area": "41526",
     "distance": "50",
-    "population": "16984420"
 }, {
     "name": "Haiti",
     "id": "HT",
-    "area": "27065",
     "distance": "50",
-    "population": "10911819"
 }, {
     "name": "Puerto Rico",
     "id": "PR",
-    "area": "8868",
     "distance": "50",
-    "population": "3548397"
 }, {
     "name": "India",
     "id": "IN",
-    "area": "3287240",
     "distance": "50",
-    "population": "1283321500"
 }, {
     "name": "Israel",
     "id": "IL",
-    "area": "22072",
     "distance": "50",
-    "population": "8468851"
 }, {
     "name": "Belgium",
     "id": "BE",
-    "area": "30528",
     "distance": "50",
-    "population": "11280134"
 }, {
     "name": "Burundi",
     "id": "BI",
-    "area": "27816",
     "distance": "50",
-    "population": "9823828"
 }, {
     "name": "Philippines",
     "id": "PH",
-    "area": "300000",
     "distance": "50",
-    "population": "102687121"
 }, {
     "name": "Japan",
     "id": "JP",
-    "area": "377944",
     "distance": "50",
-    "population": "126832000"
 }, {
     "name": "Sri Lanka",
     "id": "LK",
-    "area": "65610",
     "distance": "50",
-    "population": "20277597"
 }, {
     "name": "El Salvador",
     "id": "SV",
-    "area": "21040",
     "distance": "50",
-    "population": "6340000"
 }, {
     "name": "Grenada",
     "id": "GD",
-    "area": "344",
     "distance": "50",
-    "population": "103328"
 }, {
     "name": "American Samoa",
     "id": "AS",
-    "area": "197",
     "distance": "50",
-    "population": "55519"
 }, {
     "name": "Vietnam",
     "id": "VN",
-    "area": "331212",
     "distance": "50",
-    "population": "88780000"
 }, {
     "name": "United Kingdom",
     "id": "GB",
-    "area": "242910",
     "distance": "50",
-    "population": "64105700"
 }, {
     "name": "Trinidad and Tobago",
     "id": "TT",
-    "area": "5155",
     "distance": "50",
-    "population": "1328019"
 }, {
     "name": "Jamaica",
     "id": "JM",
-    "area": "10991",
     "distance": "50",
-    "population": "2711476"
 }, {
     "name": "Pakistan",
     "id": "PK",
-    "area": "803940",
     "distance": "50",
-    "population": "192084402"
 }, {
     "name": "Liechtenstein",
     "id": "LI",
-    "area": "160",
     "distance": "50",
-    "population": "36842"
 }, {
     "name": "Germany",
     "id": "DE",
-    "area": "357168",
     "distance": "50",
-    "population": "81285000"
 }, {
     "name": "Dominican Republic",
     "id": "DO",
-    "area": "47875",
     "distance": "50",
-    "population": "10528000"
 }, {
     "name": "Cayman Islands",
     "id": "KY",
-    "area": "259",
     "distance": "50",
-    "population": "55456"
 }, {
     "name": "Luxembourg",
     "id": "LU",
-    "area": "2586",
     "distance": "50",
-    "population": "537000"
 }, {
     "name": "Italy",
     "id": "IT",
-    "area": "301308",
     "distance": "50",
-    "population": "60762320"
 }, {
     "name": "Kuwait",
     "id": "KW",
-    "area": "17818",
     "distance": "50",
-    "population": "3582054"
 }, {
     "name": "Switzerland",
     "id": "CH",
-    "area": "41285",
     "distance": "50",
-    "population": "8279700"
 }, {
     "name": "Seychelles",
     "id": "SC",
-    "area": "455",
     "distance": "50",
-    "population": "90945"
 }, {
     "name": "British Virgin Islands",
     "id": "VG",
-    "area": "151",
     "distance": "50",
-    "population": "29537"
 }, {
     "name": "Antigua and Barbuda",
     "id": "AG",
-    "area": "442",
     "distance": "50",
-    "population": "86295"
 }, {
     "name": "Nigeria",
     "id": "NG",
-    "area": "923768",
     "distance": "50",
-    "population": "178517000"
 }, {
     "name": "Nepal",
     "id": "NP",
-    "area": "147181",
     "distance": "50",
-    "population": "26494504"
 }, {
     "name": "Qatar",
     "id": "QA",
-    "area": "11571",
     "distance": "50",
-    "population": "2024707"
 }, {
     "name": "Gambia",
     "id": "GM",
-    "area": "10690",
     "distance": "50",
-    "population": "1849000"
 }, {
     "name": "Andorra",
     "id": "AD",
-    "area": "464",
     "distance": "50",
-    "population": "76246"
 }, {
     "name": "Uganda",
     "id": "UG",
-    "area": "241551",
     "distance": "50",
-    "population": "36600000"
 }, {
     "name": "Cyprus",
     "id": "CY",
-    "area": "5896",
     "distance": "50",
-    "population": "862000"
 }, {
     "name": "Tonga",
     "id": "TO",
-    "area": "720",
     "distance": "50",
-    "population": "104270"
 }, {
     "name": "Guatemala",
     "id": "GT",
-    "area": "108889",
     "distance": "50",
-    "population": "15806675"
 }, {
     "name": "Anguilla",
     "id": "AI",
-    "area": "96",
     "distance": "50",
-    "population": "13452"
 }, {
     "name": "Czech Republic",
     "id": "CZ",
-    "area": "78867",
     "distance": "50",
-    "population": "10517400"
 }, {
     "name": "Denmark",
     "id": "DK",
-    "area": "43098",
     "distance": "50",
-    "population": "5639719"
 }, {
     "name": "Thailand",
     "id": "TH",
-    "area": "513120",
     "distance": "50",
-    "population": "65926261"
 }, {
     "name": "Indonesia",
     "id": "ID",
-    "area": "1904569",
     "distance": "50",
-    "population": "257080000"
 }, {
     "name": "Poland",
     "id": "PL",
-    "area": "312685",
     "distance": "50",
-    "population": "38496000"
 }, {
     "name": "Cape Verde",
     "id": "CV",
-    "area": "4033",
     "distance": "50",
-    "population": "491875"
 }, {
     "name": "Malawi",
     "id": "MW",
-    "area": "118484",
     "distance": "50",
-    "population": "14388600"
 }, {
     "name": "France",
     "id": "FR",
-    "area": "543965",
     "distance": "50",
-    "population": "64149000"
 }, {
     "name": "Syria",
     "id": "SY",
-    "area": "185180",
     "distance": "50",
-    "population": "21377000"
 }, {
     "name": "Portugal",
     "id": "PT",
-    "area": "92090",
     "distance": "50",
-    "population": "10562178"
 }, {
     "name": "Slovakia",
     "id": "SK",
-    "area": "49036",
     "distance": "50",
-    "population": "5410728"
 }, {
     "name": "Togo",
     "id": "TG",
-    "area": "56600",
     "distance": "50",
-    "population": "6191155"
 }, {
     "name": "Azerbaijan",
     "id": "AZ",
-    "area": "86600",
     "distance": "50",
-    "population": "9477100"
 }, {
     "name": "Hungary",
     "id": "HU",
-    "area": "93029",
     "distance": "50",
-    "population": "9877365"
 }, {
     "name": "Moldova",
     "id": "MD",
-    "area": "33843",
     "distance": "50",
-    "population": "3559500"
 }, {
     "name": "Ghana",
     "id": "GH",
-    "area": "238533",
     "distance": "50",
-    "population": "24658823"
 }, {
     "name": "Cuba",
     "id": "CU",
-    "area": "109886",
     "distance": "50",
-    "population": "11163934"
 }, {
     "name": "Armenia",
     "id": "AM",
-    "area": "29743",
     "distance": "50",
-    "population": "3024100"
 }, {
     "name": "Slovenia",
     "id": "SI",
-    "area": "20273",
     "distance": "50",
-    "population": "2067741"
 }, {
     "name": "Austria",
     "id": "AT",
-    "area": "83879",
     "distance": "50",
-    "population": "8572895"
 }, {
     "name": "Turkey",
     "id": "TR",
-    "area": "783562",
     "distance": "50",
-    "population": "77695904"
 }, {
     "name": "United Arab Emirates",
     "id": "AE",
-    "area": "83600",
     "distance": "50",
-    "population": "8264070"
 }, {
     "name": "Albania",
     "id": "AL",
-    "area": "28703",
     "distance": "50",
-    "population": "2821977"
 }, {
     "name": "Dominica",
     "id": "DM",
-    "area": "739",
     "distance": "50",
-    "population": "71293"
 }, {
     "name": "Spain",
     "id": "ES",
-    "area": "505990",
     "distance": "50",
-    "population": "46439864"
 }, {
     "name": "Serbia",
     "id": "RS",
-    "area": "77474",
     "distance": "50",
-    "population": "7146759"
 }, {
     "name": "Benin",
     "id": "BJ",
-    "area": "112622",
     "distance": "50",
-    "population": "10323000"
 }, {
     "name": "Costa Rica",
     "id": "CR",
-    "area": "51100",
     "distance": "50",
-    "population": "4667096"
 }, {
     "name": "Malaysia",
     "id": "MY",
-    "area": "330803",
     "distance": "50",
-    "population": "31009000"
 }, {
     "name": "Egypt",
     "id": "EG",
-    "area": "1002450",
     "distance": "50",
-    "population": "90262915"
 }, {
     "name": "Sierra Leone",
     "id": "SL",
-    "area": "71740",
     "distance": "50",
-    "population": "6092000"
 }, {
     "name": "Romania",
     "id": "RO",
-    "area": "238391",
     "distance": "50",
-    "population": "20121641"
 }, {
     "name": "Cambodia",
     "id": "KH",
-    "area": "181035",
     "distance": "50",
-    "population": "15184116"
 }, {
     "name": "Greece",
     "id": "GR",
-    "area": "131957",
     "distance": "50",
-    "population": "11123034"
 }, {
     "name": "Ethiopia",
     "id": "ET",
-    "area": "1063652",
     "distance": "50",
-    "population": "87952991"
 }, {
     "name": "Iraq",
     "id": "IQ",
-    "area": "434128",
     "distance": "50",
-    "population": "36004552"
 }, {
     "name": "Kenya",
     "id": "KE",
-    "area": "581834",
     "distance": "50",
-    "population": "45546000"
 }, {
     "name": "Myanmar",
     "id": "MM",
-    "area": "676577",
     "distance": "50",
-    "population": "51419420"
 }, {
     "name": "Croatia",
     "id": "HR",
-    "area": "56542",
     "distance": "50",
-    "population": "4290612"
 }, {
     "name": "Honduras",
     "id": "HN",
-    "area": "112088",
     "distance": "50",
-    "population": "8385072"
 }, {
     "name": "Ukraine",
     "id": "UA",
-    "area": "603628",
     "distance": "50",
-    "population": "45377581"
 }, {
     "name": "Bosnia and Herzegovina",
     "id": "BA",
-    "area": "51209",
     "distance": "50",
-    "population": "3839737"
 }, {
     "name": "Morocco",
     "id": "MA",
-    "area": "446550",
     "distance": "50",
-    "population": "33852687"
 }, {
     "name": "Jordan",
     "id": "JO",
-    "area": "89342",
     "distance": "50",
-    "population": "6828820"
 }, {
     "name": "Swaziland",
     "id": "SZ",
-    "area": "17364",
     "distance": "50",
-    "population": "1250000"
 }, {
     "name": "Senegal",
     "id": "SN",
-    "area": "196722",
     "distance": "50",
-    "population": "13567338"
 }, {
     "name": "Uzbekistan",
     "id": "UZ",
-    "area": "444103",
     "distance": "50",
-    "population": "30492800"
 }, {
     "name": "Lesotho",
     "id": "LS",
-    "area": "30355",
     "distance": "50",
-    "population": "2074000"
 }, {
     "name": "Brunei",
     "id": "BN",
-    "area": "5765",
     "distance": "50",
-    "population": "393162"
 }, {
     "name": "Tunisia",
     "id": "TN",
-    "area": "163610",
     "distance": "50",
-    "population": "10777500"
 }, {
     "name": "Bulgaria",
     "id": "BG",
-    "area": "111002",
     "distance": "50",
-    "population": "7282041"
 }, {
     "name": "Ireland",
     "id": "IE",
-    "area": "70273",
     "distance": "50",
-    "population": "4585400"
 }, {
     "name": "Georgia",
     "id": "GE",
-    "area": "69700",
     "distance": "50",
-    "population": "4490500"
 }, {
     "name": "Burkina Faso",
     "id": "BF",
-    "area": "270764",
     "distance": "50",
-    "population": "17322796"
 }, {
     "name": "Cook Islands",
     "id": "CK",
-    "area": "237",
     "distance": "50",
-    "population": "14974"
 }, {
     "name": "Ecuador",
     "id": "EC",
-    "area": "255595",
     "distance": "50",
-    "population": "16168300"
 }, {
     "name": "Mexico",
     "id": "MX",
-    "area": "1967138",
     "distance": "50",
-    "population": "119713203"
 }, {
     "name": "Equatorial Guinea",
     "id": "GQ",
-    "area": "28051",
     "distance": "50",
-    "population": "1622000"
 }, {
     "name": "Tajikistan",
     "id": "TJ",
-    "area": "143100",
     "distance": "50",
-    "population": "8160000"
 }, {
     "name": "Yemen",
     "id": "YE",
-    "area": "455000",
     "distance": "50",
-    "population": "24527000"
 }, {
     "name": "Eritrea",
     "id": "ER",
-    "area": "121100",
     "distance": "50",
-    "population": "6333000"
 }, {
     "name": "Tanzania",
     "id": "TZ",
-    "area": "883749",
     "distance": "50",
-    "population": "44928923"
 }, {
     "name": "Nicaragua",
     "id": "NI",
-    "area": "121428",
     "distance": "50",
-    "population": "6071045"
 }, {
     "name": "Iran",
     "id": "IR",
-    "area": "1648195",
     "distance": "50",
-    "population": "78952792"
 }, {
     "name": "Fiji",
     "id": "FJ",
-    "area": "18333",
     "distance": "50",
-    "population": "858038"
 }, {
     "name": "Panama",
     "id": "PA",
-    "area": "74177",
     "distance": "50",
-    "population": "3405813"
 }, {
     "name": "Belarus",
     "id": "BY",
-    "area": "207600",
     "distance": "50",
-    "population": "9469200"
 }, {
     "name": "Lithuania",
     "id": "LT",
-    "area": "65300",
     "distance": "50",
-    "population": "2944459"
 }, {
     "name": "Montenegro",
     "id": "ME",
-    "area": "13812",
     "distance": "50",
-    "population": "620029"
 }, {
     "name": "Cameroon",
     "id": "CM",
-    "area": "466050",
     "distance": "50",
-    "population": "20386799"
 }, {
     "name": "Guinea",
     "id": "GN",
-    "area": "245857",
     "distance": "50",
-    "population": "10628972"
 }, {
     "name": "South Africa",
     "id": "ZA",
-    "area": "1220813",
     "distance": "50",
-    "population": "52981991"
 }, {
     "name": "Palau",
     "id": "PW",
-    "area": "488",
     "distance": "50",
-    "population": "20901"
 }, {
     "name": "Guinea-Bissau",
     "id": "GW",
-    "area": "36125",
     "distance": "50",
-    "population": "1520830"
 }, {
     "name": "Colombia",
     "id": "CO",
-    "area": "1141748",
     "distance": "50",
-    "population": "48491772"
 }, {
     "name": "Afghanistan",
     "id": "AF",
-    "area": "645807",
     "distance": "50",
-    "population": "25500100"
 }, {
     "name": "Djibouti",
     "id": "DJ",
-    "area": "23000",
     "distance": "50",
-    "population": "864618"
 }, {
     "name": "Liberia",
     "id": "LR",
-    "area": "97036",
     "distance": "50",
-    "population": "3476608"
 }, {
     "name": "Madagascar",
     "id": "MG",
-    "area": "587041",
     "distance": "50",
-    "population": "20696070"
 }, {
     "name": "Faroe Islands",
     "id": "FO",
-    "area": "1399",
     "distance": "50",
-    "population": "48244"
 }, {
     "name": "Zimbabwe",
     "id": "ZW",
-    "area": "390757",
     "distance": "50",
-    "population": "12973808"
 }, {
     "name": "United States",
     "id": "US",
-    "area": "9826675",
     "distance": "50",
-    "population": "322686937"
 }, {
     "name": "Venezuela",
     "id": "VE",
-    "area": "916445",
     "distance": "50",
-    "population": "28946101"
 }, {
     "name": "Latvia",
     "id": "LV",
-    "area": "64562",
     "distance": "50",
-    "population": "2005200"
 }, {
     "name": "Mozambique",
     "id": "MZ",
-    "area": "799380",
     "distance": "50",
-    "population": "23700715"
 }, {
     "name": "Kyrgyzstan",
     "id": "KG",
-    "area": "199945",
     "distance": "50",
-    "population": "5895100"
 }, {
     "name": "Estonia",
     "id": "EE",
-    "area": "45339",
     "distance": "50",
-    "population": "1313271"
 }, {
     "name": "Laos",
     "id": "LA",
-    "area": "236800",
     "distance": "50",
-    "population": "6580800"
 }, {
     "name": "Bahamas",
     "id": "BS",
-    "area": "13940",
     "distance": "50",
-    "population": "351461"
 }, {
     "name": "Brazil",
     "id": "BR",
-    "area": "8515767",
     "distance": "50",
-    "population": "202768562"
 }, {
     "name": "Peru",
     "id": "PE",
-    "area": "1285216",
     "distance": "50",
-    "population": "30475144"
 }, {
     "name": "Chile",
     "id": "CL",
-    "area": "756096",
     "distance": "50",
-    "population": "16634603"
 }, {
     "name": "Sweden",
     "id": "SE",
-    "area": "449964",
     "distance": "50",
-    "population": "9747355"
 }, {
     "name": "Bhutan",
     "id": "BT",
-    "area": "38394",
     "distance": "50",
-    "population": "769500"
 }, {
     "name": "Uruguay",
     "id": "UY",
-    "area": "176215",
     "distance": "50",
-    "population": "3286314"
 }, {
     "name": "Finland",
     "id": "FI",
-    "area": "338424",
     "distance": "50",
-    "population": "5489057"
 }, {
     "name": "South Sudan",
     "id": "SS",
-    "area": "644329",
     "distance": "50",
-    "population": "11296000"
 }, {
     "name": "Zambia",
     "id": "ZM",
-    "area": "752612",
     "distance": "50",
-    "population": "13092666"
 }, {
     "name": "Sudan",
     "id": "SD",
-    "area": "1839542",
     "distance": "50",
-    "population": "30894000"
 }, {
     "name": "New Zealand",
     "id": "NZ",
-    "area": "270467",
     "distance": "50",
-    "population": "4654002"
 }, {
     "name": "Angola",
     "id": "AO",
-    "area": "1246700",
     "distance": "50",
-    "population": "20609294"
 }, {
     "name": "Paraguay",
     "id": "PY",
-    "area": "406752",
     "distance": "50",
-    "population": "6672631"
 }, {
     "name": "Algeria",
     "id": "DZ",
-    "area": "2381741",
     "distance": "50",
-    "population": "38700000"
 }, {
     "name": "Norway",
     "id": "NO",
-    "area": "323782",
     "distance": "50",
-    "population": "5063709"
 }, {
     "name": "Papua New Guinea",
     "id": "PG",
-    "area": "462840",
     "distance": "50",
-    "population": "7398500"
 }, {
     "name": "Somalia",
     "id": "SO",
-    "area": "637657",
     "distance": "50",
-    "population": "9331000"
 }, {
     "name": "Niger",
     "id": "NE",
-    "area": "1186408",
     "distance": "50",
-    "population": "17129076"
 }, {
     "name": "Argentina",
     "id": "AR",
-    "area": "2780400",
     "distance": "50",
-    "population": "40117096"
 }, {
     "name": "Belize",
     "id": "BZ",
-    "area": "22965",
     "distance": "50",
-    "population": "324528"
 }, {
     "name": "Saudi Arabia",
     "id": "SA",
-    "area": "2149690",
     "distance": "50",
-    "population": "29994272"
 }, {
     "name": "Oman",
     "id": "OM",
-    "area": "309500",
     "distance": "50",
-    "population": "4183841"
 }, {
     "name": "Mali",
     "id": "ML",
-    "area": "1248574",
     "distance": "50",
-    "population": "14528662"
 }, {
     "name": "Turkmenistan",
     "id": "TM",
-    "area": "491210",
     "distance": "50",
-    "population": "5240000"
 }, {
     "name": "Bolivia",
     "id": "BO",
-    "area": "1098581",
     "distance": "50",
-    "population": "10389913"
 }, {
     "name": "Chad",
     "id": "TD",
-    "area": "1284000",
     "distance": "50",
-    "population": "11274106"
 }, {
     "name": "Russia",
     "id": "RU",
-    "area": "17098242",
     "distance": "50",
-    "population": "143975923"
 }, {
     "name": "Central African Republic",
     "id": "CF",
-    "area": "622436",
     "distance": "50",
-    "population": "4616000"
 }, {
     "name": "Gabon",
     "id": "GA",
-    "area": "267667",
     "distance": "50",
-    "population": "1672000"
 }, {
     "name": "Kazakhstan",
     "id": "KZ",
-    "area": "2724900",
     "distance": "50",
-    "population": "17186000"
 }, {
     "name": "Guyana",
     "id": "GY",
-    "area": "214999",
     "distance": "50",
-    "population": "784894"
 }, {
     "name": "Canada",
     "id": "CA",
-    "area": "9984670",
     "distance": "50",
-    "population": "36256492"
 }, {
     "name": "Libya",
     "id": "LY",
-    "area": "1770060",
     "distance": "50",
-    "population": "6244174"
 }, {
     "name": "Botswana",
     "id": "BW",
-    "area": "581730",
     "distance": "50",
-    "population": "2024904"
 }, {
     "name": "Mauritania",
     "id": "MR",
-    "area": "1030700",
     "distance": "50",
-    "population": "3461041"
 }, {
     "name": "Suriname",
     "id": "SR",
-    "area": "163820",
     "distance": "50",
-    "population": "534189"
 }, {
     "name": "Iceland",
     "id": "IS",
-    "area": "102800",
     "distance": "50",
-    "population": "329740"
 }, {
     "name": "Australia",
     "id": "AU",
-    "area": "7692024",
     "distance": "50",
-    "population": "23975613"
 }, {
     "name": "Namibia",
     "id": "NA",
-    "area": "825118",
     "distance": "50",
-    "population": "2113077"
 }, {
     "name": "Western Sahara",
     "id": "EH",
-    "area": "252120",
     "distance": "50",
-    "population": "567000"
 }, {
     "name": "Mongolia",
     "id": "MN",
-    "area": "1564100",
     "distance": "50",
-    "population": "3000000"
 }, {
     "name": "Pitcairn Islands",
     "id": "PN",
-    "area": "47",
     "distance": "50",
-    "population": "56"
 }, {
     "name": "Falkland Islands",
     "id": "FK",
-    "area": "12173",
     "distance": "50",
-    "population": "2563"
 }, {
     "name": "Greenland",
     "id": "GL",
-    "area": "2166000",
     "distance": "50",
-    "population": "55984"
 }, {
     "name": "Macau",
     "id": "MO",
-    "area": "30.3",
     "distance": "50",
-    "population": "643100"
 }, {
     "name": "Gibraltar",
     "id": "GI",
-    "area": "7",
     "distance": "50",
-    "population": "29752"
 }, {
     "name": "Sint Maarten",
     "id": "SX",
-    "area": "34",
     "distance": "50",
-    "population": "37429"
 }, {
     "name": "Jersey",
     "id": "JE",
-    "area": "116",
     "distance": "50",
-    "population": "97857"
 }, {
     "name": "Guernsey",
     "id": "GG",
-    "area": "78",
     "distance": "50",
-    "population": "62431"
 }, {
     "name": "Palestine",
     "id": "PS",
-    "area": "6020",
     "distance": "50",
-    "population": "4550368"
 }, {
     "name": "Taiwan",
     "id": "TW",
-    "area": "36191",
     "distance": "50",
-    "population": "23410280"
 }, {
     "name": "Mayotte",
     "id": "YT",
-    "area": "374",
     "distance": "50",
-    "population": "212600"
 }, {
     "name": "South Korea",
     "id": "KR",
-    "area": "100210",
     "distance": "50",
-    "population": "50423955"
 }, {
     "name": "Nauru",
     "id": "NR",
-    "area": "21",
     "distance": "50",
-    "population": "10084"
 }, {
     "name": "Tuvalu",
     "id": "TV",
-    "area": "26",
     "distance": "50",
-    "population": "11323"
 }, {
     "name": "Saint Barthélemy",
     "id": "BL",
-    "area": "21",
     "distance": "50",
-    "population": "8938"
 }, {
     "name": "Martinique",
     "id": "MQ",
-    "area": "1128",
     "distance": "50",
-    "population": "394173"
 }, {
     "name": "Curaçao",
     "id": "CW",
-    "area": "444",
     "distance": "50",
-    "population": "150563"
 }, {
     "name": "Réunion",
     "id": "RE",
-    "area": "2512",
     "distance": "50",
-    "population": "821136"
 }, {
     "name": "Marshall Islands",
     "id": "MH",
-    "area": "181",
     "distance": "50",
-    "population": "56086"
 }, {
     "name": "United States Virgin Islands",
     "id": "VI",
-    "area": "352",
     "distance": "50",
-    "population": "106405"
 }, {
     "name": "Guam",
     "id": "GU",
-    "area": "541",
     "distance": "50",
-    "population": "159358"
 }, {
     "name": "Saint Lucia",
     "id": "LC",
-    "area": "617",
     "distance": "50",
-    "population": "166526"
 }, {
     "name": "Saint Vincent and the Grenadines",
     "id": "VC",
-    "area": "389",
     "distance": "50",
-    "population": "100892"
 }, {
     "name": "Guadeloupe",
     "id": "GP",
-    "area": "1630",
     "distance": "50",
-    "population": "403355"
 }, {
     "name": "North Korea",
     "id": "KP",
-    "area": "122762",
     "distance": "50",
-    "population": "25155000"
 }, {
     "name": "Saint Kitts and Nevis",
     "id": "KN",
-    "area": "270",
     "distance": "50",
-    "population": "51970"
 }, {
     "name": "São Tomé and Príncipe",
     "id": "\tST",
-    "area": "1001",
     "distance": "50",
-    "population": "187356"
 }, {
     "name": "Kosovo",
     "id": "XK",
-    "area": "10910",
     "distance": "50",
-    "population": "1815606"
 }, {
     "name": "Isle of Man",
     "id": "IM",
-    "area": "572",
     "distance": "50",
-    "population": "84497"
 }, {
     "name": "Kiribati",
     "id": "KI",
-    "area": "726",
     "distance": "50",
-    "population": "106461"
 }, {
     "name": "Federated States of Micronesia",
     "id": "FM",
-    "area": "701",
     "distance": "50",
-    "population": "101351"
 }, {
     "name": "China",
     "id": "CN",
-    "area": "9640821",
     "distance": "50",
-    "population": "1374421995"
 }, {
     "name": "Tokelau",
     "id": "TK",
-    "area": "10",
     "distance": "50",
-    "population": "1411"
 }, {
     "name": "Northern Mariana Islands",
     "id": "MP",
-    "area": "457",
     "distance": "50",
-    "population": "53883"
 }, {
     "name": "Macedonia",
     "id": "MK",
-    "area": "25713",
     "distance": "50",
-    "population": "2062294"
 }, {
     "name": "French Polynesia",
     "id": "PF",
-    "area": "3521",
     "distance": "50",
-    "population": "268270"
 }, {
     "name": "Ivory Coast",
     "id": "CI",
-    "area": "322921",
     "distance": "50",
-    "population": "23202000"
 }, {
     "name": "Timor-Leste",
     "id": "TL",
-    "area": "14919",
     "distance": "50",
-    "population": "1066409"
 }, {
     "name": "Samoa",
     "id": "WS",
-    "area": "2831",
     "distance": "50",
-    "population": "187820"
 }, {
     "name": "Caribbean Netherlands",
     "id": "BQ",
-    "area": "322",
     "distance": "50",
-    "population": "21133"
 }, {
     "name": "Norfolk Island",
     "id": "NF",
-    "area": "35",
     "distance": "50",
-    "population": "2302"
 }, {
     "name": "Turks and Caicos Islands",
     "id": "TC",
-    "area": "497",
     "distance": "50",
-    "population": "31458"
 }, {
     "name": "Montserrat",
     "id": "MS",
-    "area": "102",
     "distance": "50",
-    "population": "4922"
 }, {
     "name": "Wallis and Futuna",
     "id": "WF",
-    "area": "274",
     "distance": "50",
-    "population": "13135"
 }, {
     "name": "Cocos Islands",
     "id": "CC",
-    "area": "14",
     "distance": "50",
-    "population": "550"
 }, {
     "name": "Saint Helena, Ascension and Tristan da Cunha",
     "id": "SH",
-    "area": "122",
     "distance": "50",
-    "population": "4255"
 }, {
     "name": "Democratic Republic of the Congo",
     "id": "CD",
-    "area": "2345095",
     "distance": "50",
-    "population": "69360000"
 }, {
     "name": "Saint Pierre and Miquelon",
     "id": "PM",
-    "area": "242",
     "distance": "50",
-    "population": "6081"
 }, {
     "name": "Vanuatu",
     "id": "VU",
-    "area": "12190",
     "distance": "50",
-    "population": "264652"
 }, {
     "name": "Solomon Islands",
     "id": "SB",
-    "area": "28370",
     "distance": "50",
-    "population": "515870"
 }, {
     "name": "Christmas Island",
     "id": "CX",
-    "area": "137",
     "distance": "50",
-    "population": "2072"
 }, {
     "name": "New Caledonia",
     "id": "NC",
-    "area": "18575",
     "distance": "50",
-    "population": "258958"
 }, {
     "name": "Republic of the Congo",
     "id": "CG",
-    "area": "342000",
     "distance": "50",
-    "population": "4448000"
 }, {
     "name": "Niue",
     "id": "NU",
-    "area": "261",
     "distance": "50",
-    "population": "1613"
 }, {
     "name": "French Guiana",
     "id": "GF",
-    "area": "86504",
     "distance": "50",
-    "population": "229040"
 }, {
     "name": "Svalbard and Jan Mayen",
     "id": "SJ",
-    "area": "61399",
     "distance": "50",
-    "population": "2655"
 }]
