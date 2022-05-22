@@ -9,7 +9,7 @@
 }, {
     "name": "Hong Kong",
     "id": "HK",
-    "distance": "52",
+    "distance": "51",
 }, {
     "name": "Vatican City",
     "id": "VA",
@@ -161,7 +161,7 @@
 }, {
     "name": "Kuwait",
     "id": "KW",
-    "distance": "31",
+    "distance": "41",
 }, {
     "name": "Switzerland",
     "id": "CH",
@@ -305,7 +305,7 @@
 }, {
     "name": "United Arab Emirates",
     "id": "AE",
-    "distance": "41",
+    "distance": "31",
 }, {
     "name": "Albania",
     "id": "AL",
@@ -457,7 +457,7 @@
 }, {
     "name": "Yemen",
     "id": "YE",
-    "distance": "31",
+    "distance": "41",
 }, {
     "name": "Eritrea",
     "id": "ER",
@@ -657,7 +657,7 @@
 }, {
     "name": "Saudi Arabia",
     "id": "SA",
-    "distance": "31",
+    "distance": "41",
 }, {
     "name": "Oman",
     "id": "OM",
