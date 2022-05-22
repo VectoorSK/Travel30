@@ -53,7 +53,7 @@
 }, {
     "name": "Lebanon",
     "id": "LB",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Rwanda",
     "id": "RW",
@@ -101,7 +101,7 @@
 }, {
     "name": "Sri Lanka",
     "id": "LK",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "El Salvador",
     "id": "SV",
@@ -161,7 +161,7 @@
 }, {
     "name": "Kuwait",
     "id": "KW",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Switzerland",
     "id": "CH",
@@ -189,7 +189,7 @@
 }, {
     "name": "Qatar",
     "id": "QA",
-    "distance": "51",
+    "distance": "31",
 }, {
     "name": "Gambia",
     "id": "GM",
@@ -205,7 +205,7 @@
 }, {
     "name": "Cyprus",
     "id": "CY",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Tonga",
     "id": "TO",
@@ -229,7 +229,7 @@
 }, {
     "name": "Thailand",
     "id": "TH",
-    "distance": "2",
+    "distance": "1",
 }, {
     "name": "Indonesia",
     "id": "ID",
@@ -245,7 +245,7 @@
 }, {
     "name": "Malawi",
     "id": "MW",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "France",
     "id": "FR",
@@ -557,7 +557,7 @@
 }, {
     "name": "Mozambique",
     "id": "MZ",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Kyrgyzstan",
     "id": "KG",
@@ -889,7 +889,7 @@
 }, {
     "name": "Timor-Leste",
     "id": "TL",
-    "distance": "51",
+    "distance": "21",
 }, {
     "name": "Samoa",
     "id": "WS",
@@ -945,7 +945,7 @@
 }, {
     "name": "New Caledonia",
     "id": "NC",
-    "distance": "51",
+    "distance": "41",
 }, {
     "name": "Republic of the Congo",
     "id": "CG",
